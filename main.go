@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 	"log"
+	"infectious"
 
-	"github.com/vivint/infectious"
 )
 
 func main() {

@@ -1,0 +1,6 @@
+go 1.20
+
+use (
+    ./          // This includes your main module
+    ./infectious // This includes the infectious module
+)
